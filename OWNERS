@@ -1,17 +1,3 @@
-cychiang@chromium.org
-dgreid@chromium.org
-hychao@chromium.org
-paulhsia@chromium.org
-tzungbi@chromium.org
-yuhsuan@chromium.org
-
-# For AOSP
-cychiang@google.com
-dgreid@google.com
-hychao@google.com
-paulhsia@google.com
-tzungbi@google.com
-yuhsuan@google.com
-
-# So any team members can +2
-*
+version https://git-lfs.github.com/spec/v1
+oid sha256:6878884b38bf72eceb7f5c3cbea16a66e9adcc7edcd54c8d9307a65639f8cfd3
+size 284

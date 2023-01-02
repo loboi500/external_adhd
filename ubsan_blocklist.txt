@@ -1,5 +1,3 @@
-# Suppress float devide-by-zero error in dsp.
-# https://crbug.com/965725
-[float-divide-by-zero]
-src:cras/src/dsp/drc_kernel.c
-fun:dk_update_envelope
+version https://git-lfs.github.com/spec/v1
+oid sha256:35d3769a5883d77a629319a4a09f98291337406982217715f6c8f474bffaf3c5
+size 149
